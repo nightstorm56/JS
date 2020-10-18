@@ -1,11 +1,9 @@
 /* Filename: JXXX_RNG.js
  * Description: Random Number Game
- * Copyright:   2014 The Code Corporation.
  * $Title: RNG$
  * $Revision: 697 $
  * $Date: 2014-07-01 07:49:06 -0600 (Tue, 01 Jul 2014) $
  * $Author: val.jensen $
- * $HeadURL: https://codesvn/svn/General/PublicApplications/J460_ABC_Inv.js $
 */
 include(".cre.js");
 
