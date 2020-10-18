@@ -6,7 +6,7 @@
  * $Author: val.jensen $
 */
 include(".cre.js");
-
+ 
 ready.oldShow = ready.show;
 ready.show = function(text, busy)
 {
